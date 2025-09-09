@@ -1,0 +1,50 @@
+Test Plan for Dummy Project
+
+Project: Dummy Project
+Document: Test Plan
+Location: /D:/myRepository/trunk/dummyProject/testing/testPlan.doc
+Date: [Insert Date]
+Author: [Insert Author]
+
+1. Introduction
+    - Purpose of this test plan
+    - Scope of testing
+
+2. Test Items
+    - List of features/modules to be tested
+
+3. Features to be Tested
+    - [Feature 1]
+    - [Feature 2]
+    - [Feature 3]
+
+4. Features Not to be Tested
+    - [Out of scope features]
+
+5. Approach
+    - Testing techniques (e.g., manual, automated)
+    - Test levels (unit, integration, system, acceptance)
+
+6. Pass/Fail Criteria
+    - Criteria for test case success/failure
+
+7. Test Deliverables
+    - Test cases
+    - Test scripts
+    - Test summary reports
+
+8. Testing Schedule
+    - Timeline for testing activities
+
+9. Resources and Responsibilities
+    - Testers
+    - Roles and responsibilities
+
+10. Risks and Contingencies
+     - Potential risks
+     - Mitigation strategies
+
+11. Approvals
+     - Sign-off section
+
+[End of Document]
